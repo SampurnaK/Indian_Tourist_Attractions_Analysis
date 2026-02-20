@@ -1,10 +1,10 @@
-###### **🧳Indian Tourist Attractions Analytics Dashboard**
+# **🧳Indian Tourist Attractions Analytics Dashboard**
 
 
 
 
 
-**📈 Dashboard**
+## 🔗 Dashboard
 
 
 
@@ -12,7 +12,7 @@ https://public.tableau.com/views/IndianTourism_17714358008390/TourismDashboard?:
 
 
 
-**📈 Dashboard Preview**
+## 🖼 Dashboard Preview
 
 
 [Dashboard Screenshot](Indian_Tourist_Attractions_Dashboard.png)
@@ -21,7 +21,7 @@ https://public.tableau.com/views/IndianTourism_17714358008390/TourismDashboard?:
 
 
 
-📌 **Project Overview**
+## 📌 Project Overview
 
 
 
@@ -33,7 +33,7 @@ This project analyzes 321 Indian tourist destinations across 32 states to evalua
 
 
 
-🗂 **Dataset**
+## 📂 Dataset
 
 
 
@@ -45,7 +45,7 @@ Records: 321 tourist destinations
 
 
 
-Key Variables:
+### Key Variables:
 
 
 
@@ -72,7 +72,7 @@ Key Variables:
 
 
 
-🛠 **Tools**
+## 🛠 Tools
 
 
 
@@ -90,7 +90,7 @@ GitHub → Project documentation
 
 
 
-🔎 **Analysis Performed**
+## 🔎 Analysis Performed
 
 
 
@@ -110,7 +110,7 @@ GitHub → Project documentation
 
 
 
-📈 **Key Insights**
+## 🔑 Key Insights
 
 
 
@@ -136,12 +136,13 @@ GitHub → Project documentation
 
 
 
-🎯 **Recommendations**
+## 🎯 Recommendations
 
 
 
 * **Increase visibility and marketing investment** in **high-rated but low-volume regions** like the North East (4.54 rating, 1.66L reviews) to balance geographic demand concentration.
 * Leverage the **strong appeal of Free destinations** (182 places, 4.54 rating) by improving infrastructure and introducing **indirect monetization strategies (guided tours, add-on experiences).**
 * Promote **high-demand attraction types (1.42L avg reviews)** and historically popular eras (60L+ reviews) **through themed tourism circuits** to scale concentrated interest.
+
 
 
