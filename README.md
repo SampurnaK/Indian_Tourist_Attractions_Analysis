@@ -8,7 +8,13 @@
 
 
 
-https://public.tableau.com/views/IndianTourism\_17714358008390/TourismDashboard
+https://public.tableau.com/views/IndianTourism_17714358008390/TourismDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+
+**📈 Dashboard Preview**
+
+
 [Dashboard Screenshot](Indian_Tourist_Attractions_Dashboard.png)
 
 
@@ -137,4 +143,5 @@ GitHub → Project documentation
 * **Increase visibility and marketing investment** in **high-rated but low-volume regions** like the North East (4.54 rating, 1.66L reviews) to balance geographic demand concentration.
 * Leverage the **strong appeal of Free destinations** (182 places, 4.54 rating) by improving infrastructure and introducing **indirect monetization strategies (guided tours, add-on experiences).**
 * Promote **high-demand attraction types (1.42L avg reviews)** and historically popular eras (60L+ reviews) **through themed tourism circuits** to scale concentrated interest.
+
 
