@@ -4,6 +4,9 @@
 
 
 
+
+
+
 ## 🔗 Dashboard
 
 
@@ -21,11 +24,19 @@ https://public.tableau.com/views/IndianTourism_17714358008390/TourismDashboard?:
 
 
 
+
+
+
+
+
 ## 📌 Project Overview
 
 
 
 This project analyzes 321 Indian tourist destinations across 32 states to evaluate tourism demand, pricing strategy, regional performance, historical impact, and destination attractiveness using SQL and Tableau.
+
+
+
 
 
 
@@ -72,6 +83,9 @@ Records: 321 tourist destinations
 
 
 
+
+
+
 ## 🛠 Tools
 
 
@@ -83,6 +97,9 @@ Excel → Raw dataset
 Tableau Public → Dashboard visualization
 
 GitHub → Project documentation
+
+
+
 
 
 
@@ -103,6 +120,9 @@ GitHub → Project documentation
 7. **Historical Era Impact** – Classifies tourist attractions by **establishment period to analyze engagement and rating trends** across **historical eras**.
 8. **Demand Bucket Segmentation** – Groups attraction types into **Low, Medium, and High demand** based on average review volume to **identify demand concentration.**
 9. **Multi-Factor Ranking Model** – Applies a **weighted scoring framework c**ombining reviews, accessibility, DSLR permission, and pricing to **rank** the top destinations by **overall attractiveness**.
+
+
+
 
 
 
@@ -136,6 +156,9 @@ GitHub → Project documentation
 
 
 
+
+
+
 ## 🎯 Recommendations
 
 
@@ -143,6 +166,9 @@ GitHub → Project documentation
 * **Increase visibility and marketing investment** in **high-rated but low-volume regions** like the North East (4.54 rating, 1.66L reviews) to balance geographic demand concentration.
 * Leverage the **strong appeal of Free destinations** (182 places, 4.54 rating) by improving infrastructure and introducing **indirect monetization strategies (guided tours, add-on experiences).**
 * Promote **high-demand attraction types (1.42L avg reviews)** and historically popular eras (60L+ reviews) **through themed tourism circuits** to scale concentrated interest.
+
+
+
 
 
 
